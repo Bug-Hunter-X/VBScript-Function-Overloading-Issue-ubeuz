@@ -1,0 +1,1 @@
+Function overloading is not directly supported in VBScript.  Attempting to create multiple functions with the same name will result in the last defined function overriding the previous ones. This can lead to unexpected behavior if you intend to have different versions of a function based on input parameters.
